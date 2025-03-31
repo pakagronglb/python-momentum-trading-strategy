@@ -23,7 +23,7 @@ git clone https://github.com/pakagronglb/python-momentum-trading-strategy.git
 cd python-momentum-trading-strategy
 
 # Install dependencies
-pip install -r requirements.txt
+pip install yfinance pandas matplotlib
 ```
 
 ## Usage
